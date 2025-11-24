@@ -65,12 +65,3 @@ I’m motivated, quick to learn, and truly enjoy building things that solve real
 
 I’d be happy to connect!
 Feel free to reach out through GitHub or email (listed in my profile).
-
----
-
-If you'd like, I can also:
-🔧 Style it in Markdown with badges
-✨ Make a more creative/personal version
-📄 Turn it into a full CV or LinkedIn “About”
-
-Just tell me!
