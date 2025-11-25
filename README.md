@@ -1,92 +1,81 @@
-# 👋 Hey, I'm Anastasia — Fullstack Developer
+██╗   ██╗███╗   ██╗███████╗ ██████╗██╗   ██╗██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
+██║   ██║████╗  ██║██╔════╝██╔════╝██║   ██║██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
+██║   ██║██╔██╗ ██║█████╗  ██║     ██║   ██║██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
+██║   ██║██║╚██╗██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║██║╚██╗██║██╔═██╗ 
+╚██████╔╝██║ ╚████║███████╗╚██████╗╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║  ██╗
+ ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
 
-```
-> `> system.init --user=anastasia --role=fullstack-dev --status=active`
+──────────────────────────────────────────────
+    CYBERNETIC IDENTITY: ANASTASIA // v.1.37
+──────────────────────────────────────────────
 
-I'm a **fullstack developer** passionate about building clean, efficient, and meaningful digital products. I work with **JavaScript, Python, C#, SQL, HTML/CSS**, and I'm constantly expanding my skill set as I grow in the tech field.
+> booting neural networks...
+> syncing chrome implants...
+> loading fullstack_protocols.js...
+> decrypting portfolio assets...
+✔ status: ONLINE
+──────────────────────────────────────────────
 
-Currently, I'm studying **Information Systems and Technologies** at university while actively developing my portfolio and practical experience.
-```
----
+▞ ABOUT_ME.sys ▚
 
-## 🚀 About Me
+┌─[PERSONA: ANASTASIA / "Stackrunner"]─────────────────────────────────┐
+│ Fullstack Operator roaming the grids of Night City.                  │
+│ Packs clean logic, quick deployment, and street-level adaptability.  │
+│ Currently grinding XP at the Faculty of Information Systems & Tech.  │
+└──────────────────────────────────────────────────────────────────────┘
+Bio-Summary:
+  Designed for clean structures, fast delivery,  
+  scalable logic and adaptive UI systems.  
+  University training in Information Systems & Technologies  
+  currently in progress.
 
-```
-user@portfolio:~$ whoami
-* 🌐 Fullstack developer focusing on modern web technologies
-* 💻 Tech Stack: React, Node.js, Express, Next.js, PostgreSQL, Python
-* 🎓 Education: Information Systems and Technologies (in progress)
-* 👥 Personality: Friendly, responsible, team-oriented
-* 🎤 Skills: Public speaking, organizational leadership
-```
 
----
+▞ EXPERIENCE_LOG.enc ▚
 
-## 💼 Experience Matrix
+[SELF-EMPLOYED FRONTEND OPERATIVE]  
+  • Engaged in UI engineering missions  
+  • Enhanced user-flow pipelines and design stability
 
-```
-> experience_timeline --format=cyber
-┌─────────────────────────────────────────────────────────────────────┐
-│ 2023-2024 │ Frontend Developer (Self-employed)                      │
-│           │ Built custom interfaces & optimized UX                  │
-├─────────────────────────────────────────────────────────────────────┤
-│ 2023      │ Intern @ Research Institute of Occupational Medicine    │
-│           │ Developed internal digital tools & UI components        │
-├─────────────────────────────────────────────────────────────────────┤
-│ 2022      │ Intern @ IMBP RAS                                      │
-│           │ Software development for scientific tools              │
-├─────────────────────────────────────────────────────────────────────┤
-│ 2021-2023 │ Physics Tutor                                          │
-│           │ Enhanced communication & knowledge transfer skills     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+[RESEARCH INSTITUTE OF OCCUPATIONAL MEDICINE, MOSCOW]  
+  • Assisted scientific corps with interface optimization  
+  • Integrated prototypes into existing internal systems
 
----
+[INSTITUTE OF BIOMEDICAL PROBLEMS, RAS]  
+  • Contributed to research-driven software solutions  
+  • Collaborated with engineers on data-intensive tools
 
-## 🛠 Technical Stack
+[PHYSICS TUTOR NODE]  
+  • Trained university units  
+  • Improved abstraction-transfer and conceptual clarity  
 
-```javascript
-const myStack = {
-  languages: ["JavaScript", "Python", "C#", "SQL", "HTML", "CSS"],
-  frontend: {
-    frameworks: ["React", "Next.js"],
-    styling: ["Tailwind CSS", "CSS3"],
-    libraries: ["jQuery"]
-  },
-  backend: {
-    runtime: ["Node.js"],
-    frameworks: ["Express", "FastAPI", ".NET"],
-    databases: ["PostgreSQL", "SQLite"]
-  },
-  tools: ["Git/GitHub", "Docker", "Figma", "REST APIs", "Agile"]
-};
-```
 
----
+▞ TECH_STACK.cfg ▚
 
-## 🎯 Mission Objectives
+Frontend:     React | Next.js | Tailwind CSS | jQuery  
+Backend:      Node.js | Express | FastAPI | C# | Python  
+Databases:    PostgreSQL | SQLite  
+Tools:        Git | REST APIs | Docker (basic) | Figma | Agile  
 
-```bash
-> career_targets --status=active
-✅ [IN_PROGRESS] Secure fullstack/frontend developer position
-✅ [IN_PROGRESS] Contribute to meaningful real-world products  
-✅ [ACTIVE]     Learn from experienced engineers
-✅ [QUEUED]     Take on challenging technical tasks
-```
 
----
+▞ OBJECTIVE.rtf (DECRYPTED) ▚
 
-## 📬 Connect Protocol
+Seeking deployment as:
+  → FULLSTACK DEVELOPER  
+  → FRONTEND SPECIALIST  
 
-```
-> contact_anastasia --methods=available
-┌──────────┬─────────────────────────────────────────────┐
-│ Platform │ Access Point                               │
-├──────────┼─────────────────────────────────────────────┤
-│ GitHub   │ https://github.com/Staish69batareyka       │
-│ Email    │ Available in profile                       │
-│ Status   │ [ACTIVE] Accepting connections             │
-└──────────┴─────────────────────────────────────────────┘
-```
+Mission parameters:
+  – Grow technical capabilities  
+  – Collaborate with high-level engineering teams  
+  – Build functional, aesthetic, real-world systems that actually *work* in the neon chaos 
+  
 
-`> system.ready --message="Let's build something amazing together!"`
+▞ CONTACT_ROUTINE.exe ▚
+
+Signal channels:  
+  → GitHub  
+  → Contacts in profile   
+
+
+──────────────────────────────────────────────
+$ neon_echo "Standing by. Awaiting new contract..."
+Standing by. Awaiting new contract...
